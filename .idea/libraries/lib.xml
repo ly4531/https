@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/https/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/wss4j-1.6.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/bcprov-jdk15on-153.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/stax2-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/neethi-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/woodstox-core-asl-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/bcprov-jdk15on-1.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/wsdl4j-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/cxf-2.6.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/xmlschema-core-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/https/lib/rfsp-api-1.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
